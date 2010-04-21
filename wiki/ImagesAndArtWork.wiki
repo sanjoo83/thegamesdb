@@ -3,3 +3,13 @@
 = Introduction =
 All fan art resolutions must be 1280x720 or 1920x1080.
 Banners resolution must be 140x758.
+
+*Example Backdrops / Fanart and Example Publisher Banners:*
+
+http://thegamesdb.googlecode.com/issues/attachment?aid=588887428493181751&name=crysis1080.jpg&inline=1
+
+http://thegamesdb.googlecode.com/issues/attachment?aid=1317844395296709501&name=bioshock1080.jpg&inline=1
+
+http://thegamesdb.googlecode.com/issues/attachment?aid=2051266943681835604&name=Blizzard+Banner.jpg&inline=1
+
+http://thegamesdb.googlecode.com/issues/attachment?aid=3651346122153065854&name=Nintendo+Banner.jpg&inline=1
