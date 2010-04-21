@@ -1,0 +1,5 @@
+#summary One-sentence summary of this page.
+
+= Introduction =
+All fan art resolutions must be 1280x720 or 1920x1080.
+Banners resolution must be 140x758.
