@@ -1,4 +1,4 @@
-#summary One-sentence summary of this page.
+#summary Information about artwork.
 
 = Introduction =
 All fan art resolutions must be 1280x720 or 1920x1080.
