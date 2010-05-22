@@ -1,0 +1,12 @@
+#summary A guide to the GamesDB API
+
+= GamesDB API =
+
+The GamesDB API can do the following:
+  * Search for games.
+  * Update user favorites.
+  * Request all updated or new content since a given date.
+  * Update user ratings.
+
+API requests are made by issuing a GET request to the API URL and a XML document is returned.
+= Details =
