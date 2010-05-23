@@ -1,0 +1,36 @@
+#summary Updates API documentation.
+
+= Details =
+
+The UpdatesApi title search returns game data in an XML document. 
+
+Parameters:
+
+*name* (string): Alpha characters only, case insensitive, partial phrases excepted, no partial words.
+
+_example request_:
+`http://thegamesdb.net/api/GetGame.php?name=halo`
+
+_example result_:
+
+{{{
+<?xml version="1.0" encoding="UTF-8" ?>
+<Data>
+    <Game>
+        <id>1</id>
+        <GameTitle>Halo</GameTitle>
+        <ReleaseDate>3/10/2010</ReleaseDate>
+        <Overview>Here is an overview of this game.</Overview>
+    </Game>
+    <Game>
+        <id>2</id>
+        <GameTitle>Halo 2</GameTitle>
+        <ReleaseDate></ReleaseDate>
+    </Game>
+    <Game>
+        <id>3</id>
+        <GameTitle>Halo 3</GameTitle>
+        <ReleaseDate></ReleaseDate>
+    </Game>
+</Data>
+}}}
