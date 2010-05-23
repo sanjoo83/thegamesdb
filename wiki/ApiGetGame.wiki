@@ -1,8 +1,9 @@
 #summary GetGame API documentation.
+#labels Phase-Implementation
 
 = Details =
 
-GetGame title search returns game data in an XML document. 
+The GetGameApi title search returns game data in an XML document. 
 
 Parameters:
 
