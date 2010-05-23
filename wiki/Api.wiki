@@ -16,6 +16,9 @@ Example Game Search: http://thegamesdb.net/api/GetGame.php?name=halo
 
 = Details =
 ApiGetGame
+
 ApiUpdates
+
 ApiUserRating
+
 ApiUserFavorites
