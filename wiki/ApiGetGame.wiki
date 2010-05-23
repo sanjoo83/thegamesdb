@@ -1,6 +1,6 @@
 #summary GetGame API documentation.
 
-= GetGame API =
+= Details =
 
 GetGame title search returns game data in an XML document. 
 
