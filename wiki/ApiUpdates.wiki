@@ -2,11 +2,11 @@
 
 = Details =
 
-The UpdatesApi title search returns game data in an XML document. 
+The UpdatesApi returns all the games updated since the time in seconds. 
 
 Parameters:
 
-*name* (string): Alpha characters only, case insensitive, partial phrases excepted, no partial words.
+*time* (int): time in seconds.
 
 _example request_:
 `http://thegamesdb.net/api/GetGame.php?name=halo`
