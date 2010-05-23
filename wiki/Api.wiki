@@ -1,4 +1,5 @@
 #summary A guide to the GamesDB API
+#labels Phase-Implementation,Featured
 
 = GamesDB API =
 
@@ -9,4 +10,12 @@ The GamesDB API can do the following:
   * Update user ratings.
 
 API requests are made by issuing a GET request to the API URL and a XML document is returned.
+
+Base API URL: http://thegamesdb.net/api/
+Example Game Search: http://thegamesdb.net/api/GetGame.php?name=halo
+
 = Details =
+ApiGetGame
+ApiUpdates
+ApiUserRating
+ApiUserFavorites
