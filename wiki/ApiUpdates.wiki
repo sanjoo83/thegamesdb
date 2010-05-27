@@ -3,7 +3,7 @@
 
 = Details =
 
-The UpdatesApi returns all the games updated since the time in seconds. 
+The ApiUpdates returns all the games updated since the time in seconds. 
 
 Parameters:
 
