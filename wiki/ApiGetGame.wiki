@@ -18,22 +18,82 @@ _example result_:
 {{{
 <?xml version="1.0" encoding="UTF-8" ?>
 <Data>
+    <baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+    <Game>
+        <id>9</id>
+        <GameTitle>Halo 2</GameTitle>
+        <Genres>
+            <genre>Action</genre>
+        </Genres>
+        <Players>2</Players>
+        <Images></Images>
+    </Game>
+    <Game>
+        <id>90</id>
+        <GameTitle>Halo 3</GameTitle>
+        <Images>
+            <fanart>
+                <original>fanart/original/90-1.jpg</original>
+                <vignette>fanart/vignette/90-1.jpg</vignette>
+            </fanart>
+            <banner>graphical/90-g.jpg</banner>
+            <fanart>
+                <original>fanart/original/90-2.jpg</original>
+                <vignette>fanart/vignette/90-2.jpg</vignette>
+            </fanart>
+        </Images>
+    </Game>
+    <Game>
+        <id>638</id>
+        <GameTitle>Halo: Reach</GameTitle>
+        <Images>
+            <fanart>
+                <original>fanart/original/638-1.jpg</original>
+                <vignette>fanart/vignette/638-1.jpg</vignette>
+            </fanart>
+            <fanart>
+                <original>fanart/original/638-2.jpg</original>
+                <vignette>fanart/vignette/638-2.jpg</vignette>
+            </fanart>
+        </Images>
+    </Game>
+    <Game>
+        <id>847</id>
+        <GameTitle>Halo Wars</GameTitle>
+        <Images>
+            <fanart>
+                <original>fanart/original/847-1.jpg</original>
+                <vignette>fanart/vignette/847-1.jpg</vignette>
+            </fanart>
+            <fanart>
+                <original>fanart/original/847-2.jpg</original>
+                <vignette>fanart/vignette/847-2.jpg</vignette>
+            </fanart>
+        </Images>
+    </Game>
     <Game>
         <id>1</id>
-        <GameTitle>Halo</GameTitle>
-        <ReleaseDate>3/10/2010</ReleaseDate>
-        <Overview>Here is an overview of this game.</Overview>
+        <GameTitle>Halo: Combat Evolved</GameTitle>
+        <ReleaseDate>11/15/2001</ReleaseDate>
+        <Overview>In Halo's twenty-sixth century setting, the player assumes the role of the Master Chief, a cybernetically enhanced super-soldier. The player is accompanied by Cortana, an artificial intelligence who occupies the Master Chief's neural interface. Players battle various aliens on foot and in vehicles as they attempt to uncover the secrets of the eponymous Halo, a ring-shaped artificial planet.</Overview>
+        <ESRB>T - Teen</ESRB>
+        <Genres>
+            <genre>Shooter</genre>
+        </Genres>
+        <Images>
+            <fanart>
+                <original>fanart/original/1-1.jpg</original>
+                <vignette>fanart/vignette/1-1.jpg</vignette>
+            </fanart>
+            <fanart>
+                <original>fanart/original/1-2.jpg</original>
+                <vignette>fanart/vignette/1-2.jpg</vignette>
+            </fanart>
+            <banner>graphical/1-g.jpg</banner>
+            <boxart>boxart/original/front/1-1.jpg</boxart>
+        </Images>
     </Game>
-    <Game>
-        <id>2</id>
-        <GameTitle>Halo 2</GameTitle>
-        <ReleaseDate></ReleaseDate>
-    </Game>
-    <Game>
-        <id>3</id>
-        <GameTitle>Halo 3</GameTitle>
-        <ReleaseDate></ReleaseDate>
-    </Game>
+
 </Data>
 }}}
 
