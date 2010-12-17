@@ -41,6 +41,8 @@ _example result_:
                 <original>fanart/original/90-2.jpg</original>
                 <vignette>fanart/vignette/90-2.jpg</vignette>
             </fanart>
+            <boxart side="front">boxart/front/90-1.jpg</boxart>
+            <boxart side="back">boxart/back/90-2.jpg</boxart>
         </Images>
     </Game>
     <Game>
