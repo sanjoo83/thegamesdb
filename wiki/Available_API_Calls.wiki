@@ -7,13 +7,13 @@ This is a list of items that can be fetched using the API.
 
 = Details =
 
-  *GameTitle
-  *ReleaseDate
-  *Overview
-  *ESRB
-  *Genre
-  *Players
-  *Publisher
-  *Developer
-  *Actors
-  *Site Rating
+  * GameTitle
+  * ReleaseDate
+  * Overview
+  * ESRB
+  * Genre
+  * Players
+  * Publisher
+  * Developer
+  * Actors
+  * Site Rating
