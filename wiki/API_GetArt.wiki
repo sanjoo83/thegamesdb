@@ -1,7 +1,7 @@
-#summary One-sentence summary of this page.
+#summary The GetArt API - Overview, Usage Example & Response.
 #labels GetArt,API,Artwork
 
-= Introduction =
+= Overview =
 
 This API feature returns a list of available artwork types and locations specific to the requested game id in the database.
 
@@ -11,6 +11,7 @@ Accepted arguments for the GetArt.php GET request:
     # The numeric ID of the game in our database that you like to fetch artwork details for
     # _example:_ id=910
 
+----
 
 = Usage Example =
 
@@ -18,7 +19,9 @@ An API call with the numeric id of the game desired:
 
 e.g. _http://thegamesdb.net/api/GetArt.php?id=910_
 
-Returns the Following Response:
+Returns the Following
+
+= Response: =
 {{{
 <Data>
 <baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
