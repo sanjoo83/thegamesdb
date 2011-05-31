@@ -1,0 +1,62 @@
+#summary One-sentence summary of this page.
+#labels GetArt,API,Artwork
+
+= Introduction =
+
+This API feature returns a list of available artwork types and locations specific to the requested game id in the database.
+
+Accepted arguments for the GetArt.php GET request:
+  * id
+    # *_Integer_*
+    # The numeric ID of the game in our database that you like to fetch artwork details for
+    # _example:_ id=910
+
+
+= Usage Example =
+
+An API call with the numeric id of the game desired:
+
+e.g. _http://thegamesdb.net/api/GetArt.php?id=910_
+
+Returns the Following Response:
+{{{
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Images>
+<fanart>
+<original>fanart/original/910-1.jpg</original>
+<vignette>fanart/vignette/910-1.jpg</vignette>
+<thumb>fanart/thumb/910-1.jpg</thumb>
+</fanart>
+<fanart>
+<original>fanart/original/910-2.jpg</original>
+
+<vignette>fanart/vignette/910-2.jpg</vignette>
+<thumb>fanart/thumb/910-2.jpg</thumb>
+</fanart>
+<fanart>
+<original>fanart/original/910-3.jpg</original>
+<vignette>fanart/vignette/910-3.jpg</vignette>
+<thumb>fanart/thumb/910-3.jpg</thumb>
+</fanart>
+<fanart>
+<original>fanart/original/910-4.jpg</original>
+<vignette>fanart/vignette/910-4.jpg</vignette>
+
+<thumb>fanart/thumb/910-4.jpg</thumb>
+</fanart>
+<fanart>
+<original>fanart/original/910-5.jpg</original>
+<vignette>fanart/vignette/910-5.jpg</vignette>
+<thumb>fanart/thumb/910-5.jpg</thumb>
+</fanart>
+<fanart>
+<original>fanart/original/910-6.jpg</original>
+<vignette>fanart/vignette/910-6.jpg</vignette>
+<thumb>fanart/thumb/910-6.jpg</thumb>
+
+</fanart>
+<boxart side='front'>boxart/original/front/910-1.jpg</boxart>
+</Images>
+</Data>
+}}}
