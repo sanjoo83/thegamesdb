@@ -7,8 +7,11 @@ The GetGameApi title search returns game data in an XML document or if an id is 
 
 Parameters:
 
-*name* (string): Alpha characters only, case insensitive, partial phrases excepted, no partial words.
+*name* (string): Alpha characters only, case insensitive, partial phrases accepted, no partial words.
+
 *id* (int): ID representing a specific game.
+
+*platform* (string) _(optional)_: Platform to filter results by, Alpha-Numeric characters only, See this wiki article for a list of valid platforms [API_ValidPlatformsList]
 
 _example request_:
 `http://thegamesdb.net/api/GetGame.php?name=halo`
