@@ -8,7 +8,7 @@ The GetGamesList API search returns a listing of games matched up with loose sea
 *Available Parameters:*
 
   * name (required)
-  * platform (optional) - See this wiki article for a list of valid platforms API_ValidPlatformsList
+  * platform (optional) - See this wiki article for a list of valid platforms [API_ValidPlatformsList]
 
 *Response Items:*
 
