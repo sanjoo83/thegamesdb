@@ -4,7 +4,9 @@
 = GamesDB API =
 
 The GamesDB API can do the following:
-  * Search for games.
+  * Search for specific games.
+  * Search for a loose list of games.
+  * Retrieve artwork locations for games.
   * Update user favorites.
   * Request all updated or new content since a given date.
   * Update user ratings.
@@ -15,10 +17,14 @@ Base API URL: http://thegamesdb.net/api/
 Example Game Search: http://thegamesdb.net/api/GetGame.php?name=halo
 
 = Details =
-ApiGetGame
+[API_GetGamesList]
 
-ApiUpdates
+[ApiGetGame]
 
-ApiUserRating
+[API_GetArt]
 
-ApiUserFavorites
+[ApiUpdates]
+
+[ApiUserRating]
+
+[ApiUserFavorites]
