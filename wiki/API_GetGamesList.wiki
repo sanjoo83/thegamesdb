@@ -5,6 +5,8 @@
 
 The GetGamesList API search returns a listing of games matched up with loose search terms.
 
+_Note: We have implemented special character stripping and loose word order searching in an attempt to provide better matching and a return a greater number of relevant hits._
+
 *Available Parameters:*
 
   * name (required)
