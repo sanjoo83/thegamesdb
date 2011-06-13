@@ -3,7 +3,12 @@
 
 = Details =
 
-The GetGameApi title search returns game data in an XML document or if an id is given it just returns the data for that specific game. An id overrides a name search. 
+The GetGameApi title search returns game data in an XML document or if an id is given it just returns the data for that specific game. An id overrides a name search.
+
+*Changelog:*
+
+_6-13-11:_
+Added Co-op tag.  Games that are checked with having Co-op capability can now be returned via the API. 
 
 Parameters:
 
