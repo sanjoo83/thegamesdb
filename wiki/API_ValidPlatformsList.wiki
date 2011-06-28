@@ -37,6 +37,7 @@ _e.g. Nintendo+Entertainment+System+(NES)_
   * Nintendo Gameboy Advance
   * Nintendo GameCube
   * Nintendo Wii
+  * Nintendo Wii U
   * PC
   * Sega 32X
   * Sega CD
@@ -49,6 +50,7 @@ _e.g. Nintendo+Entertainment+System+(NES)_
   * Sony Playstation
   * Sony Playstation 2
   * Sony Playstation 3
+  * Sony Playstation Vita
   * Sony PSP
   * Super Nintendo (SNES)
   * TurboGrafx 16
