@@ -7,18 +7,3 @@ Banners resolution must be 760x140.
 Images must be of good quality.  We don't want blurry or pixelated images.
 
 Fan Art:  Look at the image you're using... Can this be used for more than one game?  If you have a picture that is just Mario, you can probably use this as artwork for multiple mario games.  This is perfectly acceptable.  However, if artwork is title specific, please don't use it on another title in the game series that it doesn't apply to.  This would be something like a picture of a character that shows up in one game like Super Mario Bros. 2, but isn't in Super Mario Bros.
-
-Here are some examples of Backdrops / Fanart for games.  The requirement is 
-an HD resolution.  These are all 1920x1080.
-
-http://thegamesdb.googlecode.com/issues/attachment?aid=588887428493181751&name=crysis1080.jpg&token=0dd78eb78b40ee64d862d60cf27d6e46&inline=1
-
-http://thegamesdb.googlecode.com/issues/attachment?aid=1317844395296709501&name=bioshock1080.jpg&token=887925787b8109fe08b1b3b7a8befb9f&inline=1
-
-http://thegamesdb.googlecode.com/issues/attachment?aid=7923702635372277513&name=Games_Left_4_dead_game_012705_.jpg&token=e5f605f598ce38182fe4c935d6f27c65&inline=1
-
-http://thegamesdb.googlecode.com/issues/attachment?aid=-1689569076317851455&name=gta41080.jpg&token=586f4b57b6352e52e787bf95859e1c04&inline=1
-
-http://thegamesdb.googlecode.com/issues/attachment?aid=-4943626789388171874&name=gearsofwar21080.jpg&token=84dc68c675d63adfa681020d30c1566d&inline=1
-
-http://thegamesdb.googlecode.com/issues/attachment?aid=-5915566632684714556&name=mariogalaxy1080.jpg&token=34211083bf9c1c4e03564747c4b199bf&inline=1
