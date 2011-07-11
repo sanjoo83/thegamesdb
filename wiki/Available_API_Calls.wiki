@@ -1,12 +1,14 @@
 #summary This is a list of items that can be fetched using the API.
+#labels API
 
-= Introduction =
+= Description =
 
-This is a list of items that can be fetched using the API.
+This is a list of items that can be fetched using the API.  For detailed function descriptions, see the [http://code.google.com/p/thegamesdb/wiki/Api API page].
 
 
-= Details =
+= MetaData =
 
+ * GameID
  * GameTitle
  * ReleaseDate
  * Overview
@@ -17,3 +19,12 @@ This is a list of items that can be fetched using the API.
  * Developer
  * Actors
  * Site Rating
+ * Co-op
+
+= Art =
+
+ * Front Box Art
+ * Back Box Art
+ * Fan Art
+ * Fan Art Vignette
+ * Banner
