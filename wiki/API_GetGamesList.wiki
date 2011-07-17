@@ -7,10 +7,16 @@ The GetGamesList API search returns a listing of games matched up with loose sea
 
 _Note: We have implemented special character stripping and loose word order searching in an attempt to provide better matching and a return a greater number of relevant hits._
 
+*Changelog:*
+
+7-17-11: Added Genre Filtering Support. 
+
+
 *Available Parameters:*
 
   * name (required)
-  * platform (optional) - See this wiki article for a list of valid platforms [API_ValidPlatformsList]
+  * platform (optional) - Filters results by platform (See this wiki article for a list of valid platforms [API_ValidPlatformsList])
+  * genre (optional) - Filters results by genre (See this wiki article for a list of valid genres _ToDo_
 
 *Response Items:*
 
