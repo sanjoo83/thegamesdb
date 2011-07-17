@@ -16,7 +16,7 @@ _Note: We have implemented special character stripping and loose word order sear
 
   * name (required)
   * platform (optional) - Filters results by platform (See this wiki article for a list of valid platforms [API_ValidPlatformsList])
-  * genre (optional) - Filters results by genre (See this wiki article for a list of valid genres _ToDo_
+  * genre (optional) - Filters results by genre (See this wiki article for a list of valid genres [API_ValidGenresList])
 
 *Response Items:*
 
