@@ -7,6 +7,9 @@ The GetGameApi title search returns game data in an XML document or if an id is 
 
 *Changelog:*
 
+_7-17-11:_
+Added CRC Support.
+
 _6-13-11:_
 Added Co-op tag.  Games that are checked with having Co-op capability can now be returned via the API. 
 
