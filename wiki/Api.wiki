@@ -14,7 +14,7 @@ The GamesDB API can do the following:
 API requests are made by issuing a GET request to the API URL and a XML document is returned.
 
 Base API URL: http://thegamesdb.net/api/
-Example Game Search: http://thegamesdb.net/api/GetGame.php?name=halo
+Example Game Search: http://thegamesdb.net/api/GetGamesList.php?name=halo
 
 = Details =
 [API_GetGamesList]
