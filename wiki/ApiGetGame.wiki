@@ -7,6 +7,10 @@ The GetGameApi title search returns game data in an XML document or if an id is 
 
 *Changelog:*
 
+_7-19-11:_
+Added Youtube TrailerSupport.
+Removed CRC Support.
+
 _7-17-11:_
 Added CRC Support.
 
