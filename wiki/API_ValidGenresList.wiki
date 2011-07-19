@@ -30,3 +30,5 @@ _e.g. Construction+and+Management+Simulation_
   * Sandbox
   * Flight Simulator
   * MMO
+  * Stealth
+  * Music
