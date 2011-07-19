@@ -1,4 +1,4 @@
-#summary The following are a list of valid platforms that can be used with the API.
+#summary The following are a list of valid genres that can be used with the API.
 #labels API,GetGamesList,Genres
 
 = Overview =
