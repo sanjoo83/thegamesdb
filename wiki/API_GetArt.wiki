@@ -17,46 +17,68 @@ Accepted arguments for the GetArt.php GET request:
 
 An API call with the numeric id of the game desired:
 
-e.g. _http://thegamesdb.net/api/GetArt.php?id=910_
+e.g. _http://thegamesdb.net/api/GetArt.php?id=170_
 
 Returns the Following
 
 = Response: =
 {{{
+<?xml version="1.0" encoding="UTF-8" ?>
+
 <Data>
-<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
-<Images>
-<fanart>
-<original width="1920" height="1080">fanart/original/910-1.jpg</original>
-<vignette width="1920" height="1080">fanart/vignette/910-1.jpg</vignette>
-<thumb>fanart/thumb/910-1.jpg</thumb>
-</fanart>
-<fanart>
-<original width="1920" height="1080">fanart/original/910-2.jpg</original>
-<vignette width="1920" height="1080">fanart/vignette/910-2.jpg</vignette>
-<thumb>fanart/thumb/910-2.jpg</thumb>
-</fanart>
-<fanart>
-<original width="1920" height="1080">fanart/original/910-3.jpg</original>
-<vignette width="1920" height="1080">fanart/vignette/910-3.jpg</vignette>
-<thumb>fanart/thumb/910-3.jpg</thumb>
-</fanart>
-<fanart>
-<original width="1920" height="1080">fanart/original/910-4.jpg</original>
-<vignette width="1920" height="1080">fanart/vignette/910-4.jpg</vignette>
-<thumb>fanart/thumb/910-4.jpg</thumb>
-</fanart>
-<fanart>
-<original width="1920" height="1080">fanart/original/910-5.jpg</original>
-<vignette width="1920" height="1080">fanart/vignette/910-5.jpg</vignette>
-<thumb>fanart/thumb/910-5.jpg</thumb>
-</fanart>
-<fanart>
-<original width="1920" height="1080">fanart/original/910-6.jpg</original>
-<vignette width="1920" height="1080">fanart/vignette/910-6.jpg</vignette>
-<thumb>fanart/thumb/910-6.jpg</thumb>
-</fanart>
-<boxart side="front" width="1703" height="2330">boxart/original/front/910-1.jpg</boxart>
-</Images>
+  <baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+  <Images>
+    <fanart>
+      <original width="1920" height="1080">fanart/original/170-1.jpg</original>
+      <vignette width="1920" height="1080">fanart/vignette/170-1.jpg</vignette>
+      <thumb>fanart/thumb/170-1.jpg</thumb>
+    </fanart>
+    <fanart>
+      <original width="1920" height="1080">fanart/original/170-2.jpg</original>
+      <vignette width="1920" height="1080">fanart/vignette/170-2.jpg</vignette>
+      <thumb>fanart/thumb/170-2.jpg</thumb>
+    </fanart>
+    <fanart>
+      <original width="1920" height="1080">fanart/original/170-3.jpg</original>
+      <vignette width="1920" height="1080">fanart/vignette/170-3.jpg</vignette>
+      <thumb>fanart/thumb/170-3.jpg</thumb>
+    </fanart>
+    <fanart>
+      <original width="1920" height="1080">fanart/original/170-4.jpg</original>
+      <vignette width="1920" height="1080">fanart/vignette/170-4.jpg</vignette>
+      <thumb>fanart/thumb/170-4.jpg</thumb>
+    </fanart>
+    <boxart side="back" width="1531" height="2126">boxart/original/back/170-2.jpg</boxart>
+    <boxart side="front" width="1530" height="2126">boxart/original/front/170-1.jpg</boxart>
+    <banner width="760" height="140">graphical/170-g.jpg</banner>
+    <screenshot>
+      <original width="832" height="456">screenshots/170-1.jpg</original>
+      <thumb>screenshots/thumb/170-1.jpg</thumb>
+    </screenshot>
+    <screenshot>
+      <original width="832" height="456">screenshots/170-2.jpg</original>
+      <thumb>screenshots/thumb/170-2.jpg</thumb>
+    </screenshot>
+    <screenshot>
+      <original width="832" height="456">screenshots/170-3.jpg</original>
+      <thumb>screenshots/thumb/170-3.jpg</thumb>
+    </screenshot>
+    <screenshot>
+      <original width="832" height="456">screenshots/170-5.jpg</original>
+      <thumb>screenshots/thumb/170-5.jpg</thumb>
+    </screenshot>
+    <screenshot>
+      <original width="832" height="456">screenshots/170-6.jpg</original>
+      <thumb>screenshots/thumb/170-6.jpg</thumb>
+    </screenshot>
+    <screenshot>
+      <original width="832" height="456">screenshots/170-7.jpg</original>
+      <thumb>screenshots/thumb/170-7.jpg</thumb>
+    </screenshot>
+    <screenshot>
+      <original width="832" height="456">screenshots/170-8.jpg</original>
+      <thumb>screenshots/thumb/170-8.jpg</thumb>
+    </screenshot>
+  </Images>
 </Data>
 }}}
