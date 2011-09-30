@@ -25,6 +25,7 @@ _e.g. Nintendo+Entertainment+System+(NES)_
   * Atari Jaguar CD
   * Atari XE
   * Colecovision
+  * Commodore 64
   * Intellivision
   * Mac OS
   * Microsoft Xbox
