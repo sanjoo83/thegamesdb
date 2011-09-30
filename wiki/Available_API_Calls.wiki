@@ -20,7 +20,6 @@ This is a list of items that can be fetched using the API.  For detailed functio
  * Actors
  * Site Rating
  * Co-op
- * CRC
 
 = Art =
 
