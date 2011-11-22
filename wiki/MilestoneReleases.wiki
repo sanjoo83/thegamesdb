@@ -13,9 +13,11 @@
 
 ==Future==
 
- * 0.7 (Peach):
- * 0.7 (Yoshi):
+ * 0.7 (Peach): This is primarily a facelifted website.  Adds lots of functionality.
  * 0.7.5 (Uploader):
+ * 0.8 (Yoshi): This realease includes a new version of the API.
+ * 0.9 (Starfox): This release includes more UI changes.
+
 
 
 
