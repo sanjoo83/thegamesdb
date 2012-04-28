@@ -9,6 +9,7 @@ The GetGames.php and GetGamesList.php API calls can accept an optional "platform
 
 _http://thegamesdb.net/api/GetGamesList.php?name=x-men&platform=Nintendo+Entertainment+System+(NES)_
 
+You can use the following API call to see a listing of all available Platforms: http://thegamesdb.net/api/GetPlatformsList.php
 
 = List of Valid Platforms =
 
