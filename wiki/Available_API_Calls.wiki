@@ -26,5 +26,4 @@ This is a list of items that can be fetched using the API.  For detailed functio
  * Front Box Art
  * Back Box Art
  * Fan Art
- * Fan Art Vignette
  * Banner
