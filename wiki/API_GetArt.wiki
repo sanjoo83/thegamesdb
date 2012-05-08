@@ -30,22 +30,18 @@ Returns the Following
   <Images>
     <fanart>
       <original width="1920" height="1080">fanart/original/170-1.jpg</original>
-      <vignette width="1920" height="1080">fanart/vignette/170-1.jpg</vignette>
       <thumb>fanart/thumb/170-1.jpg</thumb>
     </fanart>
     <fanart>
       <original width="1920" height="1080">fanart/original/170-2.jpg</original>
-      <vignette width="1920" height="1080">fanart/vignette/170-2.jpg</vignette>
       <thumb>fanart/thumb/170-2.jpg</thumb>
     </fanart>
     <fanart>
       <original width="1920" height="1080">fanart/original/170-3.jpg</original>
-      <vignette width="1920" height="1080">fanart/vignette/170-3.jpg</vignette>
       <thumb>fanart/thumb/170-3.jpg</thumb>
     </fanart>
     <fanart>
       <original width="1920" height="1080">fanart/original/170-4.jpg</original>
-      <vignette width="1920" height="1080">fanart/vignette/170-4.jpg</vignette>
       <thumb>fanart/thumb/170-4.jpg</thumb>
     </fanart>
     <boxart side="back" width="1531" height="2126">boxart/original/back/170-2.jpg</boxart>
